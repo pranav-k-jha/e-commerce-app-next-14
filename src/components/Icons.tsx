@@ -86,4 +86,41 @@ export const Icons = {
       </g>
     </svg>
   ),
+  shoppingCart: (props: LucideProps) => (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+      <circle cx="256" cy="256" r="150" fill="#4d4d4d" />
+
+      <circle cx="256" cy="150" r="100" fill="#4d4d4d" />
+
+      <circle cx="220" cy="130" r="10" fill="white" />
+      <circle cx="292" cy="130" r="10" fill="white" />
+
+      <path
+        d="M240 180 Q256 200 272 180"
+        fill="none"
+        stroke="white"
+        stroke-width="2"
+      />
+      <path
+        d="M240 180 Q256 220 272 180"
+        fill="none"
+        stroke="white"
+        stroke-width="2"
+      />
+
+      <rect x="200" y="260" width="112" height="60" fill="#ff6600" />
+      <circle cx="200" cy="290" r="10" fill="white" />
+      <circle cx="312" cy="290" r="10" fill="white" />
+
+      <circle cx="256" cy="200" r="15" fill="yellow" />
+      <line
+        x1="250"
+        y1="210"
+        x2="262"
+        y2="210"
+        stroke="black"
+        stroke-width="2"
+      />
+    </svg>
+  ),
 };
