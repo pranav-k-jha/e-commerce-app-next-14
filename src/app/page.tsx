@@ -14,7 +14,7 @@ const perks = [
     name: "Guaranteed Quality",
     icon: CheckCircle,
     description:
-      "Every asset o our platform is verified by our time to ensure our highest quality standards. Not happy? We offer a 30-day refund guarantee.",
+      "Every asset on our platform is verified by our time to ensure our highest quality standards. Not happy? We offer a 30-day refund guarantee.",
   },
   {
     name: "For the Planet",
