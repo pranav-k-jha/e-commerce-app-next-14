@@ -2,7 +2,7 @@
 
 ![Logo](path/to/your/logo.png)
 
-This modern e-commerce website, built with Next.js 14, tRPC, TypeScript, Payload, and Tailwind CSS, offers a complete marketplace experience.
+Currently, I am working on this modern e-commerce website that offers a complete marketplace experience. The website is being built using Next.js 14, tRPC, TypeScript, Payload, and Tailwind CSS."
 
 ## Features
 
