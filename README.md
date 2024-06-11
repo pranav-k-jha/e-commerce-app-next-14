@@ -6,7 +6,7 @@ Currently, I am working on this modern e-commerce website that offers a complete
 
 ## Features
 
-- **Complete Marketplace:** Developed from scratch using Next.js 14.
+- **Complete Marketplace:** Will be developed from scratch using Next.js 14.
 - **Stunning UI:** Beautiful landing and product pages with custom artwork.
 - **Admin Dashboard:** Full-featured admin dashboard for managing products and users.
 - **User Interaction:** Users can buy and sell products, with a locally persisted shopping cart.
